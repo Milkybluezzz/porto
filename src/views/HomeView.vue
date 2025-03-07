@@ -53,7 +53,7 @@ export default defineComponent({
         "Information System Student",
         "IT Enthusiast"
       ],
-      resumePath: '/Resume_Reynaldi_Wiratama_Siregar.pdf',
+      resumePath: '/ATS_Radithia.pdf',
     }
   }
 })

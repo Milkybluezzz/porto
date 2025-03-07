@@ -1,7 +1,7 @@
 <template>
     <a
       :href="resumePath"
-      download="Resume_Reynaldi_Wiratama_Siregar.pdf"
+      download="ATS_Radithia.pdf"
       class="flex items-center py-2 px-4 mx-auto text-sm font-medium rounded-lg border transition duration-300 md:py-2.5 md:px-5 md:mx-0 text-blue-200 border-blue-200 hover:bg-blue-200 hover:bg-opacity-10 bg-transparent focus:outline-none focus:ring-2 focus:ring-blue-200 focus:ring-opacity-50 w-fit"
       @click="trackDownload"
     >
