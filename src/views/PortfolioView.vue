@@ -6,7 +6,7 @@ export default {
       items: [
         {
           id: 1,
-          name: 'Portfolio Website',
+          name: '4presence UI/UX Design',
           imageUrl: 'portfolio-v2',
           status: 'I created my portfolio website to showcase my profile, skills, and projects, while also providing a space to implement and refine my web development expertise.',
           tech: 'VueJS 3, Tailwind',
