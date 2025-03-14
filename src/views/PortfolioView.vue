@@ -8,33 +8,27 @@ export default {
           id: 1,
           name: '4presence UI/UX Design',
           imageUrl: 'portfolio-v5',
-          tech: 'Figma  ',
-          github: 'https://github.com/reysiregar/portfolio-v2',
-          demo: 'https://reysiregar-portfolio-v2.vercel.app/'
+          tech: 'Figma  '
         },
         {
           id: 2,
           name: 'BandungAppFAQ',
           imageUrl: 'portfolio-v3',
           tech: 'Laravel, tailwind',
-          github: 'https://github.com/reysiregar/portfolio-v2',
-          demo: 'https://christmas-website-pdd.vercel.app'
+          github: 'https://github.com/Milkybluezzz/FAQ'
         },
         {
           id: 3,
           name: '4Properties UI/UX Design',
           imageUrl: 'portfolio-v4',
-          tech: 'Figma',
-          github: 'https://github.com/reysiregar/portfolio-v2',
-          demo: 'https://reysiregar-portfolio-v2.vercel.app/'
+          tech: 'Figma'
         },
         {
           id: 4,
           name: 'Portfolio Website',
           imageUrl: 'portfolio-v6',
           tech: 'VueJS 3, Tailwind',
-          github: 'https://github.com/reysiregar/portfolio-v2',
-          demo: 'https://reysiregar-portfolio-v2.vercel.app/'
+          github: 'https://github.com/Milkybluezzz/porto'
         },
       ]
     };
