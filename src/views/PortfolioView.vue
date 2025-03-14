@@ -7,35 +7,31 @@ export default {
         {
           id: 1,
           name: '4presence UI/UX Design',
-          imageUrl: 'portfolio-v2',
-          status: 'I created my portfolio website to showcase my profile, skills, and projects, while also providing a space to implement and refine my web development expertise.',
-          tech: 'VueJS 3, Tailwind',
+          imageUrl: 'portfolio-v5',
+          tech: 'Figma  ',
           github: 'https://github.com/reysiregar/portfolio-v2',
           demo: 'https://reysiregar-portfolio-v2.vercel.app/'
         },
         {
           id: 2,
-          name: 'Christmas Invitation',
-          imageUrl: 'portfolio-v1',
-          status: 'Website of Christmas Invitation for My Church, giving guest the Event details like location, date & time, etc. (Private Project -> Wanna have the code? Contact me for more information.)',
-          tech: 'JavaScript, SCSS',
+          name: 'BandungAppFAQ',
+          imageUrl: 'portfolio-v3',
+          tech: 'Laravel, tailwind',
           github: 'https://github.com/reysiregar/portfolio-v2',
           demo: 'https://christmas-website-pdd.vercel.app'
         },
         {
           id: 3,
-          name: 'Portfolio Website',
-          imageUrl: 'portfolio-v2',
-          status: 'I created my portfolio website to showcase my profile, skills, and projects, while also providing a space to implement and refine my web development expertise.',
-          tech: 'VueJS 3, Tailwind',
+          name: '4Properties UI/UX Design',
+          imageUrl: 'portfolio-v4',
+          tech: 'Figma',
           github: 'https://github.com/reysiregar/portfolio-v2',
           demo: 'https://reysiregar-portfolio-v2.vercel.app/'
         },
         {
           id: 4,
           name: 'Portfolio Website',
-          imageUrl: 'portfolio-v2',
-          status: 'I created my portfolio website to showcase my profile, skills, and projects, while also providing a space to implement and refine my web development expertise.',
+          imageUrl: 'portfolio-v6',
           tech: 'VueJS 3, Tailwind',
           github: 'https://github.com/reysiregar/portfolio-v2',
           demo: 'https://reysiregar-portfolio-v2.vercel.app/'
